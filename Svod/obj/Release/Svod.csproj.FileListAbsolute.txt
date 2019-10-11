@@ -1,0 +1,8 @@
+C:\Users\SkvortcovOI\Documents\Visual Studio 2012\Projects\Svod\Svod\bin\Release\Svod.exe.config
+C:\Users\SkvortcovOI\Documents\Visual Studio 2012\Projects\Svod\Svod\bin\Release\Svod.exe
+C:\Users\SkvortcovOI\Documents\Visual Studio 2012\Projects\Svod\Svod\bin\Release\Svod.pdb
+C:\Users\SkvortcovOI\Documents\Visual Studio 2012\Projects\Svod\Svod\obj\Release\Svod.Form1.resources
+C:\Users\SkvortcovOI\Documents\Visual Studio 2012\Projects\Svod\Svod\obj\Release\Svod.Properties.Resources.resources
+C:\Users\SkvortcovOI\Documents\Visual Studio 2012\Projects\Svod\Svod\obj\Release\Svod.csproj.GenerateResource.Cache
+C:\Users\SkvortcovOI\Documents\Visual Studio 2012\Projects\Svod\Svod\obj\Release\Svod.exe
+C:\Users\SkvortcovOI\Documents\Visual Studio 2012\Projects\Svod\Svod\obj\Release\Svod.pdb

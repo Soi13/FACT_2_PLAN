@@ -1,0 +1,8 @@
+C:\Users\SkvortcovOI\Documents\Visual Studio 2012\Projects\FACT_2_PLAN\Svod\bin\Release\FACT2PLAN.exe.config
+C:\Users\SkvortcovOI\Documents\Visual Studio 2012\Projects\FACT_2_PLAN\Svod\bin\Release\FACT2PLAN.exe
+C:\Users\SkvortcovOI\Documents\Visual Studio 2012\Projects\FACT_2_PLAN\Svod\bin\Release\FACT2PLAN.pdb
+C:\Users\SkvortcovOI\Documents\Visual Studio 2012\Projects\FACT_2_PLAN\Svod\obj\Release\Svod.Form1.resources
+C:\Users\SkvortcovOI\Documents\Visual Studio 2012\Projects\FACT_2_PLAN\Svod\obj\Release\FACT2PLAN.Properties.Resources.resources
+C:\Users\SkvortcovOI\Documents\Visual Studio 2012\Projects\FACT_2_PLAN\Svod\obj\Release\FACT2PLAN.csproj.GenerateResource.Cache
+C:\Users\SkvortcovOI\Documents\Visual Studio 2012\Projects\FACT_2_PLAN\Svod\obj\Release\FACT2PLAN.exe
+C:\Users\SkvortcovOI\Documents\Visual Studio 2012\Projects\FACT_2_PLAN\Svod\obj\Release\FACT2PLAN.pdb
